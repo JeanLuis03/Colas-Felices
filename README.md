@@ -33,7 +33,7 @@
 
 <h3><i><b>Login "Colas Felices"</b></i></h3>
 
-![Login](https://snz04pap002files.storage.live.com/y4mE2mqHIotD6Iin2T97eheMta34fLgF_Ksiofg9YE26NWTKJu2we_f-06v4ez3VZtCE4Zl1EZSUCrVYrYkSnWT2nsoJil4s4155ftsj0JsO3YN-cJ_baFQsZa6AXIBoGYAmyRlCZe9b7CRIeQjJqO4LITWptGMNO9-RfJczRkVO2KdIpFVViNF1qkUpDyqrTPeL-B6d-FnZIa5z-o8qWgqiOIthBtQ2GTso0AP_vFmWjw?encodeFailures=1&width=801&height=597 "Login Colas Felices")
+![Login](https://snz04pap002files.storage.live.com/y4m1sOy6G0cQwMY8UBI3UiBDWgr5F6gFs4uGtj0qa2pdcS9x59eTCVZ199F-eSU50S4tyjZDZCM4Vvl9CMS6rlrwcCosdmZ4EzFnLd2mAOxEPtTQoxrTeod3PhYXjWEHBL2O-58dRdEbRzhh0W68XECfEtbNELarf9finfX_X26MPqxmzZjnL05gdQwMdgW_3w_1czhfQZwRdBwNdGpUplVHeMDR-R-Df5KYgQCpAhbUm8?encodeFailures=1&width=801&height=597 "Login Colas Felices")
 
 <div style="text-align: justify"><h4>Al iniciar la aplicación, lo primero en mostrarse es el login. En este iniciarán sesión los usuarios previamente registrados en la  base de datos de la tienda con su <b>usuario</b> y <b>contraseña</b> asignada.</h4>
 
